@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\asus\desktop\computergraphics2018\experiment2\experiment2\experiment2\main.cpp(20): warning C4305: “参数”: 从“double”到“GLclampf”截断
+c:\users\asus\desktop\computergraphics2018\experiment2\experiment2\experiment2\main.cpp(64): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\asus\desktop\computergraphics2018\experiment2\experiment2\experiment2\main.cpp(269): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+c:\users\asus\desktop\computergraphics2018\experiment2\experiment2\experiment2\main.cpp(314): warning C4305: “参数”: 从“double”到“GLfloat”截断
+c:\users\asus\desktop\computergraphics2018\experiment2\experiment2\experiment2\main.cpp(315): warning C4305: “参数”: 从“double”到“GLfloat”截断
+  Experiment2.vcxproj -> C:\Users\ASUS\Desktop\ComputerGraphics2018\Experiment2\Experiment2\Debug\Experiment2.exe
